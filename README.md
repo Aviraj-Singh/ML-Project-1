@@ -1,4 +1,4 @@
-# ML-Project-1
+# Financial App Behavior Analysis
 This is my first project whose goal is Directing Customers to Subscription Through App Behavior Analysis
 
 Problem Statement: Prediction model is to be created to predict the customer’s behavior who will buy the product or not. The discounts would be given to the customer who is interested in using premium version of the app but they cannot afford its cost.
